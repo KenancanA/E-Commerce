@@ -1,0 +1,21 @@
+.button {
+  margin-top: 25px;
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.button:hover {
+  transition: all 0.4s;
+  cursor: pointer;
+  background-color: rgb(255, 219, 171);
+}
+
+.icons {
+  font-size: 30px;
+}
+
+.icons:hover {
+  scale: 1.5;
+  cursor: pointer;
+}
